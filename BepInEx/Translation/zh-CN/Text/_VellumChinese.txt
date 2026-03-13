@@ -1,0 +1,817 @@
+# XUnity.AutoTranslator Translation File
+# Format: English Text=Chinese Translation
+#
+# Vellum: Raid Night Study Hall 汉化补丁 v2.0
+# 技能译名参考：圣堂刺客12.0团本攻略 + 12.0团本开荒速查手册
+#
+
+#==============================================
+#  开始界面
+#==============================================
+Press Any Button=按任意键继续
+- Press Any Button -=- 按任意键继续 -
+press any button=按任意键继续
+
+#==============================================
+#  主菜单 & 通用 UI
+#==============================================
+Start=开始
+Settings=设置
+Quit=退出
+Prepare=准备
+Trials=试炼
+Combat Tips=战斗提示
+Unique=独特机制
+Play=开始
+Continue=继续
+Back=返回
+Cancel=取消
+Confirm=确认
+Accept=接受
+Decline=拒绝
+Yes=是
+No=否
+OK=确定
+Close=关闭
+Apply=应用
+Retry=重试
+Resume=继续
+Paused=已暂停
+Loading=加载中
+Saving=保存中
+Exit=退出
+Main Menu=主菜单
+Return to Main Menu=返回主菜单
+Restart=重新开始
+Skip=跳过
+Next=下一步
+Previous=上一步
+Select=选择
+Deselect=取消选择
+Unlock=解锁
+Locked=已锁定
+Unlocked=已解锁
+New=新
+Complete=完成
+Incomplete=未完成
+Failed=失败
+Victory=胜利
+Defeat=失败
+Score=分数
+Time=时间
+Level=等级
+World=世界
+Worlds=世界
+Page=页面
+Pages=页面
+Ready=准备就绪
+Not Ready=未就绪
+Solo=单人
+Co-op=合作
+Host=主机
+Join=加入
+Disconnect=断开连接
+Connected=已连接
+Searching=搜索中
+Player=玩家
+Players=玩家
+
+#==============================================
+#  设置界面 — 标签页
+#==============================================
+General=通用
+Audio=音频
+Graphics=图形
+Input=输入
+Bindings=键位绑定
+Credits=制作人员
+
+#==============================================
+#  设置界面 — 通用
+#==============================================
+Camera Distance=镜头距离
+Camera FOV=镜头视野
+FOV Effects=视野效果
+Screen Shake=屏幕震动
+Chance Text Display=概率文本显示
+Number Text Display=数值文本显示
+Foreshadowing=预兆效果
+Floating Combat Text=浮动战斗文字
+On=开
+Off=关
+Percentage=百分比
+Words=文字
+Numbers=数字
+Reset=重置
+
+#==============================================
+#  设置界面 — 音频
+#==============================================
+Master Volume=主音量
+Music Volume=音乐音量
+Music=音乐
+SFX Volume=音效音量
+SFX=音效
+Voice Volume=语音音量
+Ambient Volume=环境音量
+Mute=静音
+Unmute=取消静音
+
+#==============================================
+#  设置界面 — 图形
+#==============================================
+Resolution=分辨率
+Fullscreen=全屏
+Windowed=窗口化
+Borderless=无边框
+Quality=画质
+Low=低
+Medium=中
+High=高
+Ultra=极致
+V-Sync=垂直同步
+VSync=垂直同步
+Anti-Aliasing=抗锯齿
+Shadow Quality=阴影质量
+Texture Quality=纹理质量
+Post Processing=后处理
+Bloom=泛光
+Motion Blur=动态模糊
+Ambient Occlusion=环境光遮蔽
+Frame Rate=帧率
+Uncapped=不限制
+Brightness=亮度
+
+#==============================================
+#  设置界面 — 输入/键位
+#==============================================
+Mouse Sensitivity=鼠标灵敏度
+Invert Y=反转Y轴
+Controller=手柄
+Keyboard=键盘
+Primary Spell=主要技能
+Spending Spell=消耗技能
+Dash Spell=冲刺技能
+AoE Cooldown Spell=AOE冷却技能
+Move Forward=前进
+Move Backward=后退
+Move Left=左移
+Move Right=右移
+Jump=跳跃
+Interact=交互
+Sprint=冲刺
+Crouch=蹲下
+
+#==============================================
+#  游戏提示 & 底部文字
+#==============================================
+Note: Mechanics may appear differently in other Worlds.=注意：不同世界中的机制可能有所不同。
+We hope you enjoy this homage to one of our favorite games!=希望你喜欢这款致敬我们最爱游戏的作品！
+Study hard, then check out:=努力学习，然后看看：
+A Co-op Roguelike with Raids!=一款带团本的合作Roguelike！
+Vellum on Steam=Vellum Steam页面
+Vellum Steam=Vellum Steam页面
+Brush up on your fighting mechanics with Raid Night Study Hall=通过团本研习厅温习你的战斗机制
+your worry-free (and actually free) guide to boss fights!=你的无忧（且完全免费的）Boss战指南！
+Learn, practice, and don't stand in the fire!=学习、练习，别站在火里！
+You will be prepared!=你会有备而来！
+Raid Night Study Hall=团本研习厅
+
+#==============================================
+#  副本/区域名称
+#==============================================
+The AnnoyedSpire=虚影尖塔
+Gloomdrift=梦境裂隙
+Gleamdrift=微光漂流
+Vellum=羊皮卷
+Tome=卷册
+Tomes=卷册
+
+#==============================================
+#  H1: 元首阿福扎恩 (General Aversion / Imperator Averzian)
+#==============================================
+General Aversion=元首阿福扎恩（H1）
+Imperator Averzian=元首阿福扎恩
+
+# Boss描述
+General Aversion, a ruthless fan of board games, deploys his ultimate stratagem: tic-tac-toe.=元首阿福扎恩，一个残酷的棋盘游戏爱好者，部署了他的终极战术：九宫格。
+Perhaps the greatest strategic mind of the null forces, only the best heroes can put an end to the General's pursuit of total victory.=作为虚空势力中最伟大的战略头脑，只有最强的英雄才能终结元首对全面胜利的追求。
+
+# 战斗提示（带 "- " 前缀变体）
+Tanks drive the tic-tac-toe positions=坦克主导九宫格站位
+- Tanks drive the tic-tac-toe positions=- 坦克主导九宫格站位
+Don't get overwhelmed with adds!=别被小怪淹没！
+- Don't get overwhelmed with adds!=- 别被小怪淹没！
+Dodge damage!=躲避伤害！
+- Dodge damage!=- 躲避伤害！
+
+# 机制提示
+the Tank will be playing Tic-Tac-Toe with the Boss.=坦克将和BOSS玩九宫格连线。
+Tic-Tac-Toe=九宫格
+The Tic-Tac-Toe Terror!=九宫格恐怖！
+During Tic Tac Toe, Follow the Tank and help Soak the attack\nto clear a Tic Tac Toe space.=九宫格阶段，跟随坦克并帮忙分摊攻击\n来清除一个格子。
+Soak means to be in the area of an attack, usually to spread the attack's effect across multiple players.=分摊：站在攻击范围内，将攻击效果分摊给多名玩家。
+General Aversion will summon additional creatures to fight you. Clear these Adds quickly.=元首将召唤额外的小怪。快速清理这些小怪。
+your 'Q' ability is great at this.=你的"Q"技能非常适合做这件事。
+Tank to clear a space!=坦克清理格子！
+SOAK on Tank to clear a space!=在坦克上分摊以清理格子！
+
+# 技能名
+Umbral Collapse=幽影坍缩
+Dark Subversion=黑暗颠覆
+Shadow Drop=虚空坠落
+Shadow Formation=暗影方阵
+Endless March=无尽行军
+Abyssal Voidshaper=深渊虚空塑形者
+Dense Dark Bastion=浓暗壁垒
+Shadowguard Stalwart=影卫坚兵
+Void Maw=虚空之喉
+
+#==============================================
+#  H2: 弗拉希乌斯 (The Volorax / Vorasius)
+#==============================================
+The Volorax=弗拉希乌斯（H2）
+Vorasius=弗拉希乌斯
+
+# Boss描述
+The Volorax, a towering predator from the void, ambushes with devastating charges and toxic bursts.=弗拉希乌斯，一头来自虚空的巨型掠食者，用毁灭性的冲锋和毒爆进行伏击。
+A hulking predator of the void=虚空中的巨大掠食者
+Stay away from the Tank soak!=远离坦克的分摊圈！
+- Stay away from the Tank soak!=- 远离坦克的分摊圈！
+Get to the Safe Spot!=去安全区！
+- Get to the Safe Spot!=- 去安全区！
+Safe Spot=安全区
+Stay out of the Charge Path!=不要站在冲锋路径上！
+- Stay out of the Charge Path!=- 不要站在冲锋路径上！
+
+# 技能名
+Shadow Claw Strike=影爪重击
+Crush=碾碎
+Aftershock=余震
+Void Crystal=虚空水晶
+Primal Roar=始源咆哮
+Primal Power=始源之力
+Bubble Burst=气泡爆裂
+Burst Crawler=爆爬虫
+Crawling Spew=爬行喷吐
+Void Breath=虚空吐息
+Suppression Pulse=压制脉冲
+Parasitic Infestation=散逸寄生虫
+
+#==============================================
+#  H3: 萨哈达尔 (Former Hegemonarch Sal / Fallen-King Salhadaar)
+#==============================================
+Former Hegemonarch Sal=陨落之王萨哈达尔（H3）
+Fallen-King Salhadaar=陨落之王萨哈达尔
+
+# Boss描述
+Avoid close combat at any cost.=不惜一切代价避免近战。
+- Avoid close combat at any cost.=- 不惜一切代价避免近战。
+
+# 技能名
+Void Convergence=虚空融合
+Condensed Void=凝结的虚空
+Void Exposure=虚空暴露
+Void Infusion=虚空灌输
+Dark Erosion=晦暗侵蚀
+Entropic Unraveling=熵能瓦解
+Anguish Quintessence=痛苦精粹
+Umbral Torrent=本影迸流
+Shatter Twilight=粉碎暮光
+Twilight Spike=暮光尖峰
+Shattered Projection=破碎投影
+Despotic Command=专制命令
+Suppressive Darkness=压抑黑暗
+Shadow Erosion Strike=影蚀打击
+Twisted Shroud=扭曲遮蔽
+
+#==============================================
+#  H4: 双龙 — 威厄高尔 & 艾佐拉克 (Prequel & Sequel / Vaelgor & Ezzorak)
+#==============================================
+Prequel & Sequel=威厄高尔 & 艾佐拉克（H4 双龙）
+Vaelgor=威厄高尔
+Ezzorak=艾佐拉克
+
+# 战斗提示
+Kill the Dragons evenly!=平衡击杀双龙！
+- Kill the Dragons evenly!=- 平衡击杀双龙！
+They don't share health.=它们不共享血量。
+- They don't share health.=- 它们不共享血量。
+Run away to break the tether!=跑开拉断能量束！
+- Run away to break the tether!=- 跑开拉断能量束！
+Don't hit allies with the breath!=别让吐息打到队友！
+- Don't hit allies with the breath!=- 别让吐息打到队友！
+Stay on your color=留在你的颜色区域
+- Stay on your color=- 留在你的颜色区域
+Stay on your color and hit the egg - now we just game!=留在你的颜色区域并打蛋——开打！
+- Stay on your color and hit the egg - now we just game!=- 留在你的颜色区域并打蛋——开打！
+Soak the Orb to reduce its size!=分摊虚空球以缩小它！
+- Soak the Orb to reduce its size!=- 分摊虚空球以缩小它！
+Soak the Orbs before they reach the fountain.=在球到达泉水前分摊它们。
+- Soak the Orbs before they reach the fountain.=- 在球到达泉水前分摊它们。
+
+# 技能名
+Fear Breath=恐惧吐息
+Void Beam=虚无光束
+Void Realm=虚界
+Void Fracture=虚无断裂
+Wing of Vaelgor=威厄之翼
+Miasma=阴霾
+Miasma Touch=阴霾触摸
+Weakened=削弱
+Raq Fang=拉克獠牙
+Midnight Blaze=午夜烈焰
+Radiant Barrier=辐光屏障
+Midnight Avatar=午夜化身
+Shadow Mark=暗影印记
+Twilight Shackle=暮光羁绊
+
+#==============================================
+#  H5: 光盲先锋军 (The Light-Enthused Fanbase / Lightblinded Vanguard)
+#==============================================
+The Light-Enthused Fanbase=光盲先锋军（H5 三骑士）
+Lightblinded Vanguard=光盲先锋军
+Commander Vinar Lightblood=指挥官维纳尔·光血
+General Amils Beleme=阿米尔斯·贝莱梅将军
+War Priest Sern=战争牧师瑟恩
+
+# 战斗提示
+Soak the Hammer=分摊圣锤
+- Soak the Hammer=- 分摊圣锤
+Soak the Hammer, then dodge the spinning projectiles!=分摊圣锤，然后躲避旋转飞盾！
+- Soak the Hammer, then dodge the spinning projectiles!=- 分摊圣锤，然后躲避旋转飞盾！
+dodge the spinning projectiles!=躲避旋转飞盾！
+- dodge the spinning projectiles!=- 躲避旋转飞盾！
+Break the Shield before the cast completes!=在读条结束前打破护盾！
+- Break the Shield before the cast completes!=- 在读条结束前打破护盾！
+Stay away from allies until the shield hits!=护盾命中前远离队友！
+- Stay away from allies until the shield hits!=- 护盾命中前远离队友！
+Soak the circle to save your allies!=踩圈分摊以拯救队友！
+- Soak the circle to save your allies!=- 踩圈分摊以拯救队友！
+Kick=打断
+Kick (Touch) to interrupt cast.=打断（触碰）以中断施法。
+- Kick (Touch) to interrupt cast.=- 打断（触碰）以中断施法。
+Kick (Touch) the Shade before it finishes casting!=在暗影施法完成前打断它！
+- Kick (Touch) the Shade before it finishes casting!=- 在暗影施法完成前打断它！
+Get between your Ally and the Quill!=站在队友和羽毛箭之间！
+- Get between your Ally and the Quill!=- 站在队友和羽毛箭之间！
+Get ready to SOAK it.=准备分摊！
+- Get ready to SOAK it.=- 准备分摊！
+
+# 技能名
+Fury Aura=愤怒光环
+Devotion Aura=虔诚光环
+Tranquility Aura=平心光环
+Execution Verdict=处决宣判
+Vengeance Wrath=复仇之怒
+Holy Hammer=神圣之锤
+Avenger's Shield=复仇者之盾
+Holy Radiance=均热光辉
+Holy Bells=圣洁鸣钟
+Blinding Light=盲目之光
+Tyr's Wrath=提尔之怒
+Holy Shield=圣洁护盾
+Holy Consecration=神圣奉献
+Judgment=审判
+Final Judgment=最终审判
+Righteous Shield Bash=正义盾击
+Retribution=惩戒
+Atonement=自律
+Zealous Soul=狂热之魂
+Holy Tempest=圣洁风暴
+
+#==============================================
+#  H6: 尾王 — 宇宙之冕 / 奥蕾莉亚
+#==============================================
+Crown of the Cosmos=宇宙之冕
+Alleria Windrunner=奥蕾莉亚·风行者
+
+# 战斗提示
+Break the Chains atop the Towers=打破塔顶的锁链
+- Break the Chains atop the Towers=- 打破塔顶的锁链
+Get to the Safe Spot=去安全区
+- Get to the Safe Spot=- 去安全区
+Get back in the light!=回到光明中！
+- Get back in the light!=- 回到光明中！
+
+# 技能名
+Horizon=地平线
+Bubbling Eye=沸腾之眼
+Shifting Eye=移形之眼
+Lucky Eye=幸运之眼
+Discoidal Eye=碟形之眼
+Concoctions=药剂
+Creases=裂痕
+Clatters=骰响
+Void Grip=空虚之握
+Silver Arrow=银锋箭
+Silver Barrage=银锋弹幕
+Bouncing Arrow=弹射箭
+Void Crown=空无之冕
+Void Residue=虚空残渣
+Immortal Sentinel=不朽哨兵
+Black Hand=黑手
+Rift Phantom=裂隙幻影
+Dark Empowerment=黑暗赋力
+Cosmic Barrier=宇宙屏障
+Rift Cleave=裂隙挥砍
+Final Guardian=终末守护
+Cosmic Consumption=噬灭宇宙
+Echo=回响
+Light Echo=圣光回响
+Void Echo=虚空回响
+Light Quill=圣光飞羽
+Void Quill=虚空飞羽
+
+#==============================================
+#  奇美鲁斯 (Chimaerus) — 梦境裂隙
+#==============================================
+Chimaerus=奇美鲁斯
+
+# 战斗提示
+Kill the Manifestations before they reach the Boss!=在具象走到BOSS身边前击杀它们！
+- Kill the Manifestations before they reach the Boss!=- 在具象走到BOSS身边前击杀它们！
+Kill the Adds before they reach the Boss!=在小怪走到BOSS身边前击杀它们！
+- Kill the Adds before they reach the Boss!=- 在小怪走到BOSS身边前击杀它们！
+Kill the Manifestation to prevent extra damage=击杀具象以避免额外伤害
+- Kill the Manifestation to prevent extra damage=- 击杀具象以避免额外伤害
+Standing in an Essence Pool=站在精华池中
+Standing in an Essence Pool and taking increasing damage!=站在精华池中，持续受到递增伤害！
+Essence Pool=精华池（橙水）
+Tank to get phased!=坦克吃圈进内场！
+- Tank to get phased!=- 坦克吃圈进内场！
+Killable!=可击杀！
+
+# 技能名
+Aetheric Dust Cataclysm=艾林之尘剧变
+Aetheric Insight=艾林洞察
+Rift Vulnerability=裂隙易伤
+Rift Emergence=裂隙涌现
+Devour=吞噬
+Devouring Miasma=吞噬瘴气
+Residual Miasma=残留瘴气
+Corrupted Annihilation=腐化毁灭
+Gluttonous Dive=贪食俯冲
+Aetheric Dust Essence=艾林之尘精华
+Aetheric Veil=艾林帷幕
+Rift Fatigue=裂隙疲弊
+Corrosive Phlegm=腐蚀黏痰
+Rend Rift=撕裂裂隙
+Rift Shroud=裂隙帷幕
+Devoured Essence=被吞噬的精华
+Fused Manifestation=融合具象
+Colossal Abomination=巨身憎恶
+Discordant Howl=不谐咆哮
+Colossus Strike=巨像打击
+Lingering Essence=萦绕的精华
+Terrifying Warcry=可怖战吼
+Essence Arrow=精华箭矢
+Swarming Shadow=蜂拥暗影
+
+#==============================================
+#  微光漂流 (Gleamdrift) — 额外Boss
+#==============================================
+Combineron, the Unkempt Fraud=坎比纳隆，蓬头骗子
+Combineron=坎比纳隆
+the Unkempt Fraud=蓬头骗子
+Unkempt Fraud=蓬头骗子
+
+Starch for Quail-Ganache=鹌鹑甘纳许之糊
+Starch=淀粉
+Quail-Ganache=鹌鹑甘纳许
+
+Bigol'Hen=大母鸡比格
+
+#==============================================
+#  羊皮卷 (Vellum) — 额外Boss
+#==============================================
+Araxiom, Legionweaver=阿拉希奥姆，军团织网者
+Araxiom=阿拉希奥姆
+Legionweaver=军团织网者
+ARAXIOM, LEGIONWEAVER=阿拉希奥姆，军团织网者
+
+# Boss描述
+A delicate, silken thread drifts lightly in the breeze.=一缕精致的丝线在微风中轻轻飘荡。
+Quiet steps.=悄然的脚步。
+A silent blanket of woven tales gently peels from the cavern wall.=一张由故事编织的沉默帷幕轻轻从洞壁剥落。
+They sleep.=它们沉睡着。
+Airily, cozily, the grey web clings to its newest confidant.=灰色的网轻盈而温馨地贴附着它最新的密友。
+She knows.=她知晓一切。
+Hush now... Araxiom is here.=嘘……阿拉希奥姆来了。
+
+# 战斗提示
+Try to apply Leassterss generously!=尽量多施加缓速效果！
+- Try to apply Leassterss generously!=- 尽量多施加缓速效果！
+Araxiom cannot be harmed while Guardians live!=守护者存活时无法伤害阿拉希奥姆！
+- Araxiom cannot be harmed while Guardians live!=- 守护者存活时无法伤害阿拉希奥姆！
+
+# 技能名（推测）
+Leassterss=缓速丝线
+Guardian=守护者
+Guardians=守护者
+Web=蛛网
+Cocoon=蛹茧
+Silk Thread=丝线
+Silken Snare=丝绸陷阱
+Legion Web=军团蛛网
+
+#==============================================
+#  图鉴详情页 — 技能分类标题（Ability_Name）
+#==============================================
+# H1
+Tic Tac Toe=九宫格
+Add Management=小怪管理
+
+# H2
+Rings=环形冲击
+Walls=水晶墙
+Bursters=爆爬虫
+Beam=射线
+
+# H3
+Orbs=虚空球
+Spikes=暮光尖峰
+Pools=精华池
+Beams=旋转射线
+
+# H4
+Breath=吐息
+Tether=能量束
+Fly=飞行阶段
+
+# H5
+Hammer=圣锤
+Charge=冲锋
+Aura=光环
+Cooldowns=爆发冷却
+Kick=打断
+
+# H6
+Chains=锁链
+Towers=高塔
+
+# 奇美鲁斯
+Devour=吞噬
+Essence=精华
+
+# 坎比纳隆
+Pool=精华池
+Ring=环形
+
+# 大母鸡比格
+Color=颜色
+Egg=蛋
+Quills=飞羽
+
+# 阿拉希奥姆
+Fissure=裂缝
+Leap=飞扑
+Rampage=暴走
+Broodlings=幼虫
+Broodling=幼虫
+Eggs=虫卵
+Lantern=灯笼
+
+#==============================================
+#  游戏内战斗 — 敌方名称（头顶名牌）
+#==============================================
+# H5 三骑士战斗内名
+Awkward Andy=贝莱梅将军
+Para-social Svenn=战争牧师瑟恩
+Vain Verus=指挥官维纳尔
+
+# 状态文字
+Divinely Shielded!=神圣护盾！
+Shielded!=护盾！
+Absorb=吸收
+
+# H1 战斗内
+Golgor=戈尔格
+
+# 奇美鲁斯怪物
+Fused Manifestation=融合具象
+Colossal Abomination=巨身憎恶
+
+# 通用敌方
+Eclipse=日蚀
+Eclipses=日蚀
+
+#==============================================
+#  游戏内战斗提示（黄色/白色文本框）
+#==============================================
+During last two of the three are Invulnerable!=最后两名骑士处于无敌状态！
+never 3 in a row=绝不能三连线
+Every Other=每隔一次
+
+#==============================================
+#  通用战斗指令（全部变体）
+#==============================================
+Kill the Manifestation=击杀具象！
+Kill the Manifestations=击杀具象！
+Kill the Adds=击杀小怪！
+Kill the Void Orbs=击杀虚空宝珠！
+Kill the Dragons=击杀双龙！
+Kill Near A Wall!=贴墙击杀！
+Kill Near A Walll!=贴墙击杀！
+Kill it=击杀它！
+Kill it before it transforms!=在它变身前击杀它！
+Kill the egg=击杀蛋！
+Kill the egg before the bird respawns!=在鸟重生前击杀蛋！
+
+# 带 "- " 前缀变体
+- Kill the Manifestation=- 击杀具象！
+- Kill the Manifestations=- 击杀具象！
+- Kill the Adds=- 击杀小怪！
+- Kill the Void Orbs=- 击杀虚空宝珠！
+- Kill the Dragons=- 击杀双龙！
+- Kill Near A Wall!=- 贴墙击杀！
+- Kill it=- 击杀它！
+- Kill it before it transforms!=- 在它变身前击杀它！
+- Kill the egg=- 击杀蛋！
+- Kill the egg before the bird respawns!=- 在鸟重生前击杀蛋！
+
+# 单词指令
+Dodge=躲避
+DODGE=躲避
+Soak=分摊
+SOAK=分摊
+Spread=分散
+SPREAD=分散
+Stack=集合
+STACK=集合
+Run away=跑开
+Stay away=远离
+Move=移动
+Stand=站位
+Break=打破
+BREAK=打破
+Run=跑
+RUN=跑
+Stop=停
+STOP=停
+
+# 方位指令
+Get to the center=去中心
+Get to the center...=去中心……
+Get to the edge=去边缘
+Get away from the center!=远离中心！
+Get to the edge of the safe zone to avoid allies!=去安全区边缘以免伤到队友！
+- Get to the center=- 去中心
+- Get to the edge=- 去边缘
+- Get away from the center!=- 远离中心！
+
+#==============================================
+#  游戏内战斗浮动文字 / 头顶提示
+#==============================================
+SOAK on Tank to clear a space!=在坦克位分摊以清理格子！
+Soak on Tank to clear a space!=在坦克位分摊以清理格子！
+Tank to clear a space!=坦克清理格子！
+extra damage=额外伤害
+increasing damage=递增伤害
+away from Raid Members!=远离团队成员！
+permanently=永久
+companion=伙伴
+footprints=脚印
+bonus damage=额外伤害
+area damage=范围伤害
+stored damage=蓄积伤害
+double damage=双倍伤害
+teleport=传送
+short distances=短距离
+channeling=引导
+impervious=免疫
+silenced=沉默
+frozen=冰冻
+weakened=削弱
+marked=标记
+tether=能量束
+infuse=灌注
+flourish=华彩
+
+#==============================================
+#  通用术语
+#==============================================
+Boss=首领
+Adds=小怪
+Tank=坦克
+Healer=治疗
+DPS=输出
+Shield=护盾
+Damage=伤害
+Health=生命值
+Speed=速度
+Attack=攻击
+Cooldown=冷却
+Chapter=章节
+Phase=阶段
+Mana=法力
+Ability=技能
+Difficulty=难度
+Normal=普通
+Heroic=英雄
+Mythic=史诗
+Enrage=狂暴
+Immune=免疫
+Stun=昏迷
+Interrupt=打断
+Dispel=驱散
+Buff=增益
+Debuff=减益
+DoT=持续伤害
+HoT=持续治疗
+AoE=范围伤害
+AOE=范围伤害
+Cleave=顺劈
+Aggro=仇恨
+Taunt=嘲讽
+Pull=拉怪
+Wipe=灭团
+Enrage Timer=狂暴计时
+Soft Enrage=软狂暴
+Hard Enrage=硬狂暴
+Stack up=集合
+Spread out=分散
+Phase Transition=阶段转换
+Mechanic=机制
+Mechanics=机制
+Void=虚空
+Shadow=暗影
+Light=圣光
+Holy=神圣
+Dark=黑暗
+Fire=火焰
+Frost=冰霜
+Nature=自然
+Arcane=奥术
+Physical=物理
+
+#==============================================
+#  游戏系统文本
+#==============================================
+This is your first Tome - one of the battlegrounds against the Torn.=这是你的第一本卷册——对抗撕裂者的战场之一。
+Defeating the Torn will unlock more Tomes.=击败撕裂者将解锁更多卷册。
+No Pages remain=页面已耗尽
+the Torn rampage=撕裂者暴走
+gaining untold ferocity=获得无尽凶猛
+and fortitude in their hunger.=和饥渴中的坚韧。
+Movement spells can help you get out of danger or quickly reposition.=位移技能可以帮你脱离危险或快速调整位置。
+The Font offers a selection of Quests with grand rewards!=圣泉提供丰厚奖励的任务！
+Chosen=标记者
+Torn=撕裂者
+Scribe=书记官
+Scribes=书记官们
+Font=圣泉
+Quest=任务
+Quests=任务
+Reward=奖励
+Rewards=奖励
+Loot=战利品
+Treasure=宝箱
+Chest=宝箱
+Open=打开
+Claim=领取
+Abandon=放弃
+
+#==============================================
+#  角色/职业相关
+#==============================================
+Warrior=战士
+Mage=法师
+Rogue=盗贼
+Priest=牧师
+Paladin=圣骑士
+Hunter=猎人
+Warlock=术士
+Shaman=萨满
+Druid=德鲁伊
+Monk=武僧
+Death Knight=死亡骑士
+Demon Hunter=恶魔猎手
+
+#==============================================
+#  状态效果
+#==============================================
+Stunned=昏迷
+Slowed=减速
+Rooted=定身
+Feared=恐惧
+Charmed=魅惑
+Blinded=致盲
+Hexed=变形
+Polymorphed=变形
+Enraged=狂暴
+Empowered=强化
+Shielded=护盾
+Vulnerable=易伤
+Resistant=抗性
+Invulnerable=无敌
+Berserk=狂暴
+
+#==============================================
+#  数字/计量
+#==============================================
+Damage Dealt=造成伤害
+Damage Taken=受到伤害
+Healing Done=治疗量
+Deaths=死亡次数
+Kills=击杀数
