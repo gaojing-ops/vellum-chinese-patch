@@ -476,9 +476,9 @@ Combineron=坎比纳隆
 the Unkempt Fraud=蓬头骗子
 Unkempt Fraud=蓬头骗子
 
-Starch for Quail-Ganache=鹌鹑甘纳许之糊
-Starch=淀粉
-Quail-Ganache=鹌鹑甘纳许
+Starch for Quail-Ganache=进军奎尔丹纳斯
+Starch=进军
+Quail-Ganache=奎尔丹纳斯
 
 Bigol'Hen=贝洛朗,奥的子嗣
 
