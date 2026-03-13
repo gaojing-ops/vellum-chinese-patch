@@ -867,19 +867,19 @@ TRANSLATIONS_EXTENDED = {
         '闪、蹲、侧、俯冲并打断',
 
     # ================================================================
-    #  Boss选择界面 — 大母鸡比格 机制描述
+    #  Boss选择界面 — 贝洛朗,奥的子嗣 机制描述
     # ================================================================
     "Kill the boss... a lot":
         '反复击杀BOSS…',
 
     "<b>Bigol'Hen</b> will summon two different <neg>walls of orbs</neg> that slowly \nmove across the arena.\n\n<b>Move through orbs of the color that matches yours</b> \nto <pos>destroy them.</pos>\n\nLet allies of the opposite color destroy those orbs to get safely through.":
-        "<b>大母鸡</b>会召唤两面不同的<neg>球墙</neg>\n缓慢横穿场地。\n\n<b>穿过与你颜色匹配的球</b>\n来<pos>消灭它们。</pos>\n\n让相反颜色的队友消灭那些球安全通过。",
+        "<b>贝洛朗</b>会召唤两面不同的<neg>球墙</neg>\n缓慢横穿场地。\n\n<b>穿过与你颜色匹配的球</b>\n来<pos>消灭它们。</pos>\n\n让相反颜色的队友消灭那些球安全通过。",
 
     "<b>Bigol'Hen</b> will summon Quills that fire at players. \n\nIf targeted, <pos>hide behind</pos> a player of the <i>opposite color</i> to <b>absorb the quill.</b>\n\nIf an ally is targeted by a quill <i>matching your color</i>, <b>stand in its way</b> to <pos>protect your friend.</pos>":
-        "<b>大母鸡</b>会召唤飞羽射向玩家。\n\n被瞄准时，<pos>躲到</pos><i>反色</i>玩家身后<b>吸收飞羽。</b>\n\n若队友被<i>与你同色</i>的飞羽瞄准，<b>挡在前面</b><pos>保护队友。</pos>",
+        "<b>贝洛朗</b>会召唤飞羽射向玩家。\n\n被瞄准时，<pos>躲到</pos><i>反色</i>玩家身后<b>吸收飞羽。</b>\n\n若队友被<i>与你同色</i>的飞羽瞄准，<b>挡在前面</b><pos>保护队友。</pos>",
 
     "<b>Bigol'Hen</b>'s egg will summon conal AoEs. Stand in the cones that <i>match your color</i> to avoid damage.":
-        "<b>大母鸡</b>的蛋会召唤锥形AoE。站在<i>与你颜色匹配</i>的锥形区域中免伤。",
+        "<b>贝洛朗</b>的蛋会召唤锥形AoE。站在<i>与你颜色匹配</i>的锥形区域中免伤。",
 
     # ================================================================
     #  Boss选择界面 — 阿拉希奥姆 机制描述

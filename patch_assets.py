@@ -115,19 +115,19 @@ TRANSLATIONS = {
     '<b>Combineron</b> will target you with an AoE ring. Bring that ring \nto the <b>Pools</b> to clear them when the AoE ring finishes.':
         '<b>\u574e\u6bd4\u7eb3\u9686</b>\u4f1a\u7528\u8303\u56f4\u5708\u70b9\u540d\u4f60\u3002\u628a\u5708\u5e26\u5230\n<b>\u6c60\u5b50</b>\u65c1\uff0c\u5708\u7ed3\u675f\u65f6\u53ef\u4ee5\u6e05\u9664\u6c60\u5b50\u3002',
 
-    # ---- 大母鸡比格 (Bigol'Hen) ----
+    # ---- 贝洛朗,奥的子嗣 (Bigol'Hen) ----
     'Crossing the road between the Bright and the Null, <b>Bigol\'Hen</b> oscillates between life and death. Fowl powers erupt from this once-tender bird.\n\nIt now scrambles to protect the nest against any and all intruders.':
-        '横跨光明与虚无之间，<b>大母鸡比格</b>在生死间徘徊。禽类之力从这只曾经温顺的鸟中爆发。\n\n它如今奋力保卫巢穴，抵御所有入侵者。',
+        '横跨光明与虚无之间，<b>贝洛朗</b>在生死间徘徊。禽类之力从这只曾经温顺的鸟中爆发。\n\n它如今奋力保卫巢穴，抵御所有入侵者。',
 
 
     '<b>Bigol\'Hen</b> will make you either <pos>Light or Void</pos>. \n\nYou will need to interact with all other mechanics based on this.':
-        '<b>\u5927\u6bcd\u9e21\u6bd4\u683c</b>\u4f1a\u8ba9\u4f60\u53d8\u6210<pos>\u5723\u5149\u6216\u865a\u7a7a</pos>\u5c5e\u6027\u3002\n\n\u4f60\u9700\u8981\u6839\u636e\u8fd9\u4e2a\u5c5e\u6027\u6765\u5e94\u5bf9\u6240\u6709\u5176\u4ed6\u673a\u5236\u3002',
+        '<b>\u8d1d\u6d1b\u6717</b>\u4f1a\u8ba9\u4f60\u53d8\u6210<pos>\u5723\u5149\u6216\u865a\u7a7a</pos>\u5c5e\u6027\u3002\n\n\u4f60\u9700\u8981\u6839\u636e\u8fd9\u4e2a\u5c5e\u6027\u6765\u5e94\u5bf9\u6240\u6709\u5176\u4ed6\u673a\u5236\u3002',
 
     '<b>Bigol\'Hen</b> will summon adds that will dive bomb players. \nKilling them summons an <neg>egg</neg>. <pos>Kill that egg quickly</pos> or the add will respawn.':
-        '<b>\u5927\u6bcd\u9e21\u6bd4\u683c</b>\u4f1a\u53ec\u5524\u4fef\u51b2\u73a9\u5bb6\u7684\u5c0f\u602a\u3002\n\u51fb\u6740\u540e\u4f1a\u751f\u6210<neg>\u86cb</neg>\u3002<pos>\u5feb\u901f\u6253\u6389\u86cb</pos>\uff0c\u5426\u5219\u5c0f\u602a\u4f1a\u91cd\u751f\u3002',
+        '<b>\u8d1d\u6d1b\u6717</b>\u4f1a\u53ec\u5524\u4fef\u51b2\u73a9\u5bb6\u7684\u5c0f\u602a\u3002\n\u51fb\u6740\u540e\u4f1a\u751f\u6210<neg>\u86cb</neg>\u3002<pos>\u5feb\u901f\u6253\u6389\u86cb</pos>\uff0c\u5426\u5219\u5c0f\u602a\u4f1a\u91cd\u751f\u3002',
 
     'When reaching 0 health, <b>Bigol\'Hen</b> will turn into an egg. \nDamage this egg to fully kill <b>Bigol\'Hen</b>. After some time,\n <b>Bigol\'Hen</b> will respawn, but the Egg\'s health will persist \nto the next Egg Phase.':
-        '<b>\u5927\u6bcd\u9e21\u6bd4\u683c</b>\u8840\u91cf\u5f52\u96f6\u65f6\u4f1a\u53d8\u6210\u86cb\u3002\n\u6253\u7834\u86cb\u624d\u80fd\u5f7b\u5e95\u51fb\u6740<b>\u5927\u6bcd\u9e21\u6bd4\u683c</b>\u3002\u8fc7\u6bb5\u65f6\u95f4\u540e\n<b>\u5927\u6bcd\u9e21\u6bd4\u683c</b>\u4f1a\u91cd\u751f\uff0c\u4f46\u86cb\u7684\u8840\u91cf\u4f1a\u4fdd\u7559\n\u5230\u4e0b\u4e00\u6b21\u86cb\u9636\u6bb5\u3002',
+        '<b>\u8d1d\u6d1b\u6717</b>\u8840\u91cf\u5f52\u96f6\u65f6\u4f1a\u53d8\u6210\u86cb\u3002\n\u6253\u7834\u86cb\u624d\u80fd\u5f7b\u5e95\u51fb\u6740<b>\u8d1d\u6d1b\u6717</b>\u3002\u8fc7\u6bb5\u65f6\u95f4\u540e\n<b>\u8d1d\u6d1b\u6717</b>\u4f1a\u91cd\u751f\uff0c\u4f46\u86cb\u7684\u8840\u91cf\u4f1a\u4fdd\u7559\n\u5230\u4e0b\u4e00\u6b21\u86cb\u9636\u6bb5\u3002',
 
     'The <b>Adds</b> dive bomb will target players with an AoE. Help <pos>soak</pos> these AoEs if you\'re the <b>matching color.</b>\n\nIf you\'re targeted, move to a player that matches the AoE\'s color to get their help soaking.':
         '<b>\u5c0f\u602a</b>\u4fef\u51b2\u70b8\u5f39\u4f1a\u5bf9\u73a9\u5bb6\u65bd\u653eAOE\u3002\u5982\u679c\u4f60\u662f<b>\u5339\u914d\u989c\u8272</b>\u5c31\u5e2e\u5fd9<pos>\u5206\u644a</pos>\u3002\n\n\u5982\u679c\u4f60\u88ab\u70b9\u540d\uff0c\u79fb\u5230\u989c\u8272\u5339\u914d\u7684\u73a9\u5bb6\u65c1\u8fb9\u8ba9\u4ed6\u4eec\u5e2e\u4f60\u5206\u644a\u3002',
