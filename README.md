@@ -93,4 +93,15 @@
 
 - [BepInEx](https://github.com/BepInEx/BepInEx) 团队
 - [XUnity.AutoTranslator](https://github.com/bbepis/XUnity.AutoTranslator) 作者 bbepis
+- [NGA 副本区](https://bbs.nga.cn/forum.php?fid=762) 攻略作者们 — Boss 机制翻译的重要参考来源
 - WoW 12.0 团本攻略社区
+
+---
+
+## 关于我们
+
+本补丁由 **[联盟] 罗宁 · 淡蓝色** 公会成员制作维护。
+
+我们是一支休闲向史诗 (M) 团本公会，每周 4/5/6 晚 20:00–23:00 开团，目标 M1–4，不熬夜、不加班、节奏健康。正为 **12.0 新版本** 提前补充固定团成员。
+
+👉 感兴趣？查看 [公会招募详情](GUILD_RECRUIT.md)
