@@ -143,13 +143,20 @@ TRANSLATIONS = {
 
     'A medium-sized <b>Broodling</b>, the Guardian continuously <neg>protects</neg> <b>Araxiom</b>.':
         '\u4e2d\u578b<b>\u5e7c\u866b</b>\uff0c\u5b88\u62a4\u8005\u4f1a\u6301\u7eed<neg>\u4fdd\u62a4</neg><b>\u963f\u62c9\u5e0c\u5965\u59c6</b>\u3002',
-
 }
+
+# 导入扩展翻译
+try:
+    from translations_extended import TRANSLATIONS_EXTENDED
+    TRANSLATIONS.update(TRANSLATIONS_EXTENDED)
+except ImportError:
+    pass
 
 
 def find_game_path():
     """尝试自动查找游戏路径"""
     common_paths = [
+        r"A:\SteamLibrary\steamapps\common\Vellum Study Hall",
         r"D:\SteamLibrary\steamapps\common\Vellum Study Hall",
         r"C:\Program Files (x86)\Steam\steamapps\common\Vellum Study Hall",
         r"C:\Program Files\Steam\steamapps\common\Vellum Study Hall",

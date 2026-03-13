@@ -1,0 +1,44 @@
+=============================================
+  Vellum: Raid Night Study Hall 汉化补丁
+=============================================
+
+【安装方法一：自动安装（推荐）】
+
+  需要 Python 3.8+（https://www.python.org/downloads/）
+
+  1. 确保已从 Steam 安装 Vellum: Raid Night Study Hall
+  2. 双击运行 install_chinese_patch.py
+  3. 选择 1. 安装汉化补丁
+  4. 启动游戏即可
+
+【安装方法二：手动安装】
+
+  1. 找到游戏安装目录
+     Steam > 右键游戏 > 管理 > 浏览本地文件
+  2. 将以下文件/文件夹复制到游戏根目录，覆盖同名文件：
+     - BepInEx/          （整个文件夹）
+     - winhttp.dll
+     - doorstop_config.ini
+     - arialuni_sdf_u2021 （中文字体）
+  3. 双击运行 patch_assets.py，选择 1. 应用中文补丁
+  4. 启动游戏即可
+
+【卸载方法】
+
+  方法一：运行 install_chinese_patch.py，选择 2. 卸载汉化补丁
+  方法二：手动操作
+    1. 将游戏目录下 Vellum Study Hall_Data/resources.assets.bak
+       重命名为 resources.assets（覆盖）
+    2. 删除游戏目录下的 BepInEx/、winhttp.dll、
+       doorstop_config.ini、arialuni_sdf_u2021
+
+【已知问题】
+
+  - 少部分文本（独特机制页面、含图标的战斗提示）暂未汉化
+  - 游戏更新后需重新运行 patch_assets.py
+
+【免责声明】
+
+  本补丁为非官方社区汉化，仅供学习和个人使用。
+  所有游戏内容版权归原开发者所有。
+  如有侵权请联系删除。

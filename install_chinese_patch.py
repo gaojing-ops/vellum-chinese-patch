@@ -19,6 +19,7 @@ import shutil
 def find_game():
     """Try to find the game installation directory"""
     common_paths = [
+        r"A:\SteamLibrary\steamapps\common\Vellum Study Hall",
         r"D:\SteamLibrary\steamapps\common\Vellum Study Hall",
         r"C:\Program Files (x86)\Steam\steamapps\common\Vellum Study Hall",
         r"C:\Program Files\Steam\steamapps\common\Vellum Study Hall",
